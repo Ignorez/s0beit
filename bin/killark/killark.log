@@ -1,0 +1,11 @@
+[01:27:25.811] Initializing killark 3.0 Beta
+[01:27:25.811] Compiled: Dec 12 2021 00:42:42 CL:1930
+[01:27:25.811] OS: Windows Version 6.1538.9200
+[01:27:25.812] Wrong number of arguments (2) for hud_indicator_fr1ezerot[1]
+[01:27:25.814] Warning: setting 'use_current_name' was not present in the .ini file
+[01:27:25.814] Warning: setting 'server[]' was not present in the .ini file
+[01:27:25.814] Warning: setting 'chat_secondary_key' was not present in the .ini file
+[01:27:25.814] Warning: setting 'chat[]' was not present in the .ini file
+[01:27:25.814] SA:MP 0.3.7-DL was detected. g_dwSAMP_Addr: 0x03C80000
+[01:27:28.384] Failed to hook HandleRPCPacket (memcmp)
+[01:27:28.384] Failed to hook HandleRPCPacket2 (memcmp)
